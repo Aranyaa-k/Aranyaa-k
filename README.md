@@ -1,3 +1,3 @@
-### Hi there 👋 Aranyaa here
+### Hi there 👋🏻 Aranyaa here
 
-Just getting started ✌（￣︶￣）
+Just getting started ✌🏻（￣︶￣）
