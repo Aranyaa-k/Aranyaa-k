@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aranyaa</h1>
 <h3 align="center">A self-driven student with experience in Machine Learning, Deep Learning, Computer Vision, and Autonomous Navigation.</h3>
 
-- 🔭 I’m currently working on [the implementation of vision and automation for an Autonomous Underwater Vehicle(AUV)](https://github.com/Dreadnought-Robotics)
+- 🔭 I’m currently working on Brain Hemorrhage segmentation using GANS
 
 - 👯 I’m looking to collaborate on **industrial projects that involve implementation of Computer vision and Artificial Intelligence**
 
